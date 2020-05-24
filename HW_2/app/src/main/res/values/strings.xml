@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW_2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_known_loc_msg">last_known_loc_msg</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myFileprovider">com.example.hw_2.fileprovider</string>
+
+</resources>
